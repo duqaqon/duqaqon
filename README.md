@@ -4,7 +4,7 @@
 - 💻 Languages I code in: JavaScript and Python.
 - 🌱 I’m currently learning: Java, C++ and TypeScript
 - 💬 Ask me about: Almost everything
-- 📫 How to reach me: via support servers located in **my** repositories 
+- 📫 How to reach me: via discord at duqaqon#2283
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like planes.
 
