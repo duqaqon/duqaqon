@@ -1,6 +1,6 @@
 ### Hi there, my name Is Liam, but I'm often called duqaqon.
 
-- 🔭 I’m currently working on: Webhook notifier, Discord Rich Presence (C++), CrossCount (bot)
+- 🔭 I’m currently working on: Webhook notifier (Java), Discord Rich Presence (C++), CrossCount (JS), ProCount (HTML5)
 - 💻 Languages I code in: JavaScript, Python and HTML5-CSS
 - 🌱 I’m currently learning: Java, C++ and TypeScript
 - 💬 Ask me about: Almost everything
