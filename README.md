@@ -1,6 +1,6 @@
 ## Hi there, my name Is Liam, but I'm often called duqaqon.
 
-- 🔭 I’m currently working on: Webhook notifier (Java), CrossCount (JS)
+- 🔭 I’m currently working on: CrossCount (JS), Echo (JS)
 - 💻 Languages I code in: JavaScript, Python and HTML5-CSS and abit of Java
 - 🌱 I’m currently learning: C++ and TypeScript
 - 💬 Ask me about: Almost everything
