@@ -1,4 +1,4 @@
-### Hi there, my name Is Liam, but I'm often called duqaqon.
+## Hi there, my name Is Liam, but I'm often called duqaqon.
 
 - 🔭 I’m currently working on: Webhook notifier (Java), Discord Rich Presence (C++), CrossCount (JS), ProCount (HTML5)
 - 💻 Languages I code in: JavaScript, Python and HTML5-CSS and abit of Java
@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like planes.
 
-## I guess thats all. Well see ya.
+### I guess thats all. Well see ya.
