@@ -9,5 +9,4 @@
 ### 📫 Contact me
 
 Discord: [duqaqon#0001](https://discordapp.com/users/389805816863260679)
-
 Twitter: [@RealDuqaqon](https://twitter.com/RealDuqaqon)
