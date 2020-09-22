@@ -1,6 +1,6 @@
 ## Hi there, my name Is Liam, but I'm often called duqaqon.
 
-- 🔭 I’m currently working on: CrossCount (JS), Echo (JS), FiveM Discord Presence (Lua), My Own Website (R & R markdown)
+- 🔭 I’m currently working on: CrossCount (JS), Echo (JS), My Own Website (R & R markdown)
 - 💻 Languages I code in: JavaScript and abit of Lua and R
 - 🌱 I’m currently learning: C++, Java and TypeScript
 - 😄 Pronouns: he/him
