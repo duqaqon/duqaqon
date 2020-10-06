@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: CrossCount (JS), Echo (JS), SelfbotClient (JS)
 - 💻 Languages I code in: JavaScript, Python and abit of Lua
-- 🌱 I’m currently learning: C++, Java and TypeScript
+- 🌱 I’m currently learning: Java and TypeScript
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like planes.
 
